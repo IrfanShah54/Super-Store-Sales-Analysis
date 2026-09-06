@@ -1,7 +1,6 @@
 ## Dashboard Preview
 
-![Power BI Dashboard](Dashboard.png)
-
+![Power BI Dashboard](dashboard.png)
 
 
 # Power BI Sales Forecasting Dashboard
